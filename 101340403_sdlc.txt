@@ -7,3 +7,4 @@
   It encourages a deeper comprehension of other teams' struggles and what it takes for them to complete their jobs.
   Teams understand that other teams and team members may support them in overcoming the obstacles they experience at work.
   Alternative career routes can be established by networking across departments.
+- The DevOps process builds quality into the development process, thereby reducing instances of unplanned work. A focus on security during the designing and development stage minimizes the need to remedy security issues later on, thus saving time and freeing more resources to other work.
