@@ -1,3 +1,4 @@
 - COMP 3104 i.e. DevOps is a course that is taught under T177 (Computer Programming & Analysis) program.
 - At George Brown College, this course is taught by Prof. Pritesh Patel.
 - Prof. Pritesh Patel is the best professor in the college.
+- In this course, the focus of teaching is mainly on how to use VCS (Version Control System) and various CI/CD tools.
