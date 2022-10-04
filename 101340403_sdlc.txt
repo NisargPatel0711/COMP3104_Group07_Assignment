@@ -8,3 +8,4 @@
   Teams understand that other teams and team members may support them in overcoming the obstacles they experience at work.
   Alternative career routes can be established by networking across departments.
 - The DevOps process builds quality into the development process, thereby reducing instances of unplanned work. A focus on security during the designing and development stage minimizes the need to remedy security issues later on, thus saving time and freeing more resources to other work.
+- Because of the rise in black-hat hacking attacks over the past few years, security is a top priority for many firms. According to a poll, 54% of businesses presently entrust DevOps staff with the responsibility of implementing security measures as the need for security specialists continues to grow. It suggests that learning DevOps security best practises might expand your knowledge on how to handle security issues.

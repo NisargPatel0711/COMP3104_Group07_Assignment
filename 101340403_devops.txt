@@ -5,3 +5,4 @@
 - The Devops engineer makes a good amount of money after mastering it.
 - DevOps culture brings the cohesion of autonomous teams to fast paced, high-demanding environments.
 - DevOps is complementary with Agile software development; several DevOps aspects came from the Agile way of working.
+- This course really helps beginners to get an idea of how the industry works in this sector.
