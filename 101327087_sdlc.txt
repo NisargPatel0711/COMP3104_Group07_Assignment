@@ -6,3 +6,4 @@
 6. The third phase of SDLC is Designing.
 7. The fourth phase of SDLC is Coding.
 8. The fifth phase of SDLC is Testing.
+9. The sixth phases of SDLC is Deployment.
