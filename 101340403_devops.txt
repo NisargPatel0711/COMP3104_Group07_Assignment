@@ -2,3 +2,4 @@
 - At George Brown College, this course is taught by Prof. Pritesh Patel.
 - Prof. Pritesh Patel is the best professor in the college.
 - In this course, the focus of teaching is mainly on how to use VCS (Version Control System) and various CI/CD tools.
+- The Devops engineer makes a good amount of money after mastering it.
