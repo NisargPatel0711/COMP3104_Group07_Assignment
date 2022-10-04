@@ -7,3 +7,4 @@
 - DevOps is complementary with Agile software development; several DevOps aspects came from the Agile way of working.
 - This course really helps beginners to get an idea of how the industry works in this sector.
 - The global DevOps market size was valued at $6.78 billion in 2020, and is projected to reach $57.90 billion by 2030, registering a CAGR of 24.2% from 2021 to 2030.
+- DevOps lifecycle is defined as a combination of different phases of continuous software development, integration, testing, deployment, and monitoring.
