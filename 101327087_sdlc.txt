@@ -1,3 +1,4 @@
 1. SDLC is the acronym of Software Development Life Cycle. 2 It is also called as Software Development Process.
 2. SDLC is a popular practice that is followed by different organizations for designing and developing high-quality software applications.
 3. SDLC has phases of the software development life cycle.
+4. The first phase of SDLC is Requirements Collection.
