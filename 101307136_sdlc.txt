@@ -1,1 +1,2 @@
 The various phases such as continuous development, continuous integration, continuous testing, continuous deployment, and continuous monitoring constitute DevOps Life cycle. Now let us have a look at each of the phases of DevOps life cycle one by one.
+The phase that involves ‘planning‘ and ‘coding‘ of the software. The vision of the project is decided during the planning phase and the developers begin developing the code for the application.
