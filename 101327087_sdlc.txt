@@ -3,3 +3,4 @@
 3. SDLC has phases of the software development life cycle.
 4. The first phase of SDLC is Requirements Collection.
 5. The second phase of SDLC is Defining.
+6. The third phase of SDLC is Designing.
