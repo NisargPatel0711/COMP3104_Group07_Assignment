@@ -5,3 +5,4 @@
 5. Stabilize work environment - Do you know that the tension involved in the release of new features and fixes or updates can topple the stability of your workspace and decreases overall productivity? Improve your work environment with a steady and well-balanced approach to operation with DevOps practice.
 6. Significant improvement in product quality
 7. Automation in repetitive tasks leaves more room for innovation
+8. Promotes agility in your business

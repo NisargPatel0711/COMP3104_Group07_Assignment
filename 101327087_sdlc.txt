@@ -5,3 +5,4 @@
 5. The second phase of SDLC is Defining.
 6. The third phase of SDLC is Designing.
 7. The fourth phase of SDLC is Coding.
+8. The fifth phase of SDLC is Testing.
