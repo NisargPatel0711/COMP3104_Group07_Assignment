@@ -7,3 +7,4 @@
 7. Automation in repetitive tasks leaves more room for innovation
 8. Promotes agility in your business
 9. Continuous delivery of software
+10. Transparency leads to high productivity

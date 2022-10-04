@@ -7,3 +7,4 @@
 7. The fourth phase of SDLC is Coding.
 8. The fifth phase of SDLC is Testing.
 9. The sixth phases of SDLC is Deployment.
+10. The last phases of SDLC is Maintenance.
