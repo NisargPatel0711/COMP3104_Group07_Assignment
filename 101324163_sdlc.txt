@@ -6,3 +6,6 @@
 6.better management control over the entire development project.
 7.transparency and visibility of all the processes
 clarity of requirements
+8.System analysts are individuals who deal with analysis and design techniques necessary to solve business issues using information technology.
+9.
+10.
