@@ -3,3 +3,4 @@
 - Prof. Pritesh Patel is the best professor in the college.
 - In this course, the focus of teaching is mainly on how to use VCS (Version Control System) and various CI/CD tools.
 - The Devops engineer makes a good amount of money after mastering it.
+- DevOps culture brings the cohesion of autonomous teams to fast paced, high-demanding environments. 
