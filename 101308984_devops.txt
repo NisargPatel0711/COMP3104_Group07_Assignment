@@ -1,1 +1,2 @@
 Devops is my favourite subject.
+DevOps speeds delivery of higher quality software by combining and automating the work of software development and IT operations teams.
