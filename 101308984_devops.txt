@@ -1,3 +1,4 @@
 Devops is my favourite subject.
 DevOps speeds delivery of higher quality software by combining and automating the work of software development and IT operations teams.
 DevOps is a set of practices that combines software development ( Dev) and IT operations ( Ops ).
+DevOps is about connecting these worlds and eliminating the chasm that exists between the upstream and the downstream
