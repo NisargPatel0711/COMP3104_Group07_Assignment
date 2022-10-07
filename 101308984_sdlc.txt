@@ -2,3 +2,4 @@ Software Development Life Cycle ( SDLC) is a method of software development, des
 SDLC is it helps build a culture of security that is more likely to catch issues not only in development but in other areas of an organization as well
 Software Development Life Cycle refers to the full form of SDLC
 Prior to the 1950s, computing was not elaborate enough to necessitate a detailed approach like the SDLC.
+The SDLC is not a methodology per se, but rather a description of the phases in the life cycle of a software application. In a broad sense, these phases are,:investigation, analysis, design, build, test, implement, and maintenance and support.
