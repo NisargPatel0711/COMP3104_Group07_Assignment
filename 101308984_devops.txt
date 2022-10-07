@@ -6,3 +6,4 @@ the best DevOps processes and cultures extend beyond development and operations 
 Transitioning to DevOps requires a change in culture and mindset
 DevOps is about removing the barriers between two traditionally siloed teams, development and operations.
 In some organizations, there may not even be separate development and operations teams; engineers may do both.
+DevOps outlines a software development process and an organizational culture shift that speeds the delivery of higher quality software by automating and integrating the efforts of development and IT operations teams – two groups that traditionally practiced separately from each other, or in silos.

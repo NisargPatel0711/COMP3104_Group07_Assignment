@@ -6,3 +6,4 @@ The SDLC is not a methodology per se, but rather a description of the phases in 
 Being able to identify goals also help in discovering problems clearly.
 It has various software lifecycle phases.
 This stage is usually a subset of all the stages as in the modern SDLC models, the testing activities are mostly involved in all the stages of SDLC.
+As the complexity and scale of programming grew, the concept of structured programming emerged. Over time, structured programming demanded more tactical development models, thus sparking the beginnings of the SDLC.
