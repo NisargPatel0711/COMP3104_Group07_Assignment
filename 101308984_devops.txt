@@ -3,3 +3,4 @@ DevOps speeds delivery of higher quality software by combining and automating th
 DevOps is a set of practices that combines software development ( Dev) and IT operations ( Ops ).
 DevOps is about connecting these worlds and eliminating the chasm that exists between the upstream and the downstream
 the best DevOps processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.
+Transitioning to DevOps requires a change in culture and mindset
