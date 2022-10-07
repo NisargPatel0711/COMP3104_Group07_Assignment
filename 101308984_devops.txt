@@ -5,3 +5,4 @@ DevOps is about connecting these worlds and eliminating the chasm that exists be
 the best DevOps processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.
 Transitioning to DevOps requires a change in culture and mindset
 DevOps is about removing the barriers between two traditionally siloed teams, development and operations.
+In some organizations, there may not even be separate development and operations teams; engineers may do both.
