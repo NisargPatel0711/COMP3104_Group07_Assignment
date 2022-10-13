@@ -1,0 +1,10 @@
+- COMP 3104 i.e. DevOps is a course that is taught under T177 (Computer Programming & Analysis) program.
+- At George Brown College, this course is taught by Prof. Pritesh Patel.
+- Prof. Pritesh Patel is the best professor in the college.
+- In this course, the focus of teaching is mainly on how to use VCS (Version Control System) and various CI/CD tools.
+- The Devops engineer makes a good amount of money after mastering it.
+- DevOps culture brings the cohesion of autonomous teams to fast paced, high-demanding environments.
+- DevOps is complementary with Agile software development; several DevOps aspects came from the Agile way of working.
+- This course really helps beginners to get an idea of how the industry works in this sector.
+- The global DevOps market size was valued at $6.78 billion in 2020, and is projected to reach $57.90 billion by 2030, registering a CAGR of 24.2% from 2021 to 2030.
+- DevOps lifecycle is defined as a combination of different phases of continuous software development, integration, testing, deployment, and monitoring.
