@@ -10,7 +10,7 @@ Members:
 ## Tasks
 For this project we need to do the following tasks:
 - [x] Make a group of 3 or 4 members
-- [x] Create a git repository name COMP3104_Group_Assignment.
+- [x] Create a git repository name COMP3104_Group_Assignment
 - [x] Add other group member as collaborator and assign required permission to work on the repository
 - [x] All member will create their own branch
 - [x] All group member will make atleast 10 commits and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch
