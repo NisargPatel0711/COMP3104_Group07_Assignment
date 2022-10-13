@@ -1,0 +1,7 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+Other than it being a cross-functional combination (and a portmanteau) of the terms and concepts for "development" and "operations", academics and practitioners have not developed a universal definition for the term "DevOps".
+In 1993 the Telecommunications Information Networking Architecture Consortium (TINA-C) defined a Model of a Service Lifecycle that combined software development with (telecom) service operations.
+RESEARCH Inforsource Inc. produces annual rankings of the top Canadian research institutions and among colleges, for 2021 George Brown College ranked eighth in overall research income. We also ranked fourth for the number of paid students and the number of completed projects. 
+Many of the ideas fundamental to DevOps practices are inspired by, or mirror, other well known practices such as Lean and Deming's Plan-Do-Check-Act cycle, through to The Toyota Way and the Agile approach of breaking down components and batch sizes.
+He motivations for what has become modern DevOps and several standard DevOps practices such as automated build and test, continuous integration, and continuous delivery originated in the Agile world, which dates (informally) to the 1990s, and formally to 2001.
