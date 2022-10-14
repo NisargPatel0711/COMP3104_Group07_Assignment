@@ -5,7 +5,7 @@ Members:
 * Vraj
 * Maitri
 * Yagnik
-* Vishwaraj
+* Vishvaraj
 
 ## Tasks
 For this project we need to do the following tasks:
@@ -22,13 +22,20 @@ For this project we need to do the following tasks:
   * [101340403_gb](101340403_gb.txt) - Nisarg
   * [101308984_gb](101308984_gb.txt) - Maitri
   * [101327087_gb](101327087_gb.txt) - Vraj
+  * [101307136_gb](101307136_gb.txt) - Vishvaraj
+  * [101324163_gb](101324163_gb.txt) - Yagnik
 
 * These files contains information about COMP 3104 DevOps course
   * [101340403_devops](101340403_devops.txt) - Nisarg
   * [101308984_devops](101308984_devops.txt) - Maitri
   * [101327087_devops](101327087_devops.txt) - Vraj
+  * [101307136_devops](101307136_devops.txt) - Vishvaraj
+  * [101324163_devops](101324163_devops.txt) - Yagnik
 
 * These files contains details about importance of learning DevOps engineer in Software Development Life Cycle (SDLC)
   * [101340403_sdlc](101340403_sdlc.txt) - Nisarg
   * [101308984_sdlc](101308984_sdlc.txt) - Maitri
   * [101327087_sdlc](101327087_sdlc.txt) - Vraj
+  * [101307136_sdlc](101307136_sdlc.txt) - Vishvaraj
+  * [101324163_sdlc](101324163_sdlc.txt) - Yagnik
+  
