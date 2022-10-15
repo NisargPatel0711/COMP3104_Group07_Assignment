@@ -1,11 +1,11 @@
 # COMP 3104 GROUP ASSIGNMENT
 ## Group 07
 Members:
-* Nisarg 
-* Vraj
-* Maitri
-* Yagnik
-* Vishvaraj
+* Nisarg - 101340403 
+* Vraj - 101327087
+* Maitri - 101308984
+* Yagnik - 101324163
+* Vishvaraj - 101307136
 
 ## Tasks
 For this project we need to do the following tasks:
